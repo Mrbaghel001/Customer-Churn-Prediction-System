@@ -15,16 +15,20 @@ This project predicts whether a customer is likely to churn using machine learni
 ---
 
 ## 📂 Project Structure
+
 Customer-Churn-Prediction/
-│── data/
-│── src/
-│ ├── data_preprocessing.py
-│ ├── train_model.py
-│ ├── evaluate_model.py
-│── model/
-│── app.py
-│── requirements.txt
-│── README.md
+├── data/
+│   └── churn.csv
+├── src/
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   ├── evaluate_model.py
+├── model/
+│   ├── churn_model.pkl
+│   ├── columns.pkl
+├── app.py
+├── requirements.txt
+├── README.md
 
 
 ---
