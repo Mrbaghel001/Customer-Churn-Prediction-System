@@ -54,7 +54,7 @@ This project predicts whether a customer is likely to churn using machine learni
 
 ## ▶️ How to Run the Project
 
-### 1️⃣ Install dependencies
+1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 
